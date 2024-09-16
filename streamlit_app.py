@@ -13,10 +13,10 @@ import random
 MODEL_PATH = r'trained_model.pkl'
 
 # Path to the default image displayed at the top
-DEFAULT_IMAGE_PATH = r'data/Photos Try.jpg'
+DEFAULT_IMAGE_PATH = r'data/Streamlit_open_image.jpg'
 
 # Path to the directory containing sample images
-SAMPLE_IMAGE_DIR = r'data/Sample_Photos'  
+SAMPLE_IMAGE_DIR = r'data/Photos Try'  
 
 
 # === Functions ===
