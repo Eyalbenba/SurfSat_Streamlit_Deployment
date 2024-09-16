@@ -1,4 +1,6 @@
-﻿streamlit==1.38.0
+-f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch-scatter
+streamlit==1.38.0
 Pillow==10.4.0    
 torch==2.2.2
 torchvision==0.17.2
