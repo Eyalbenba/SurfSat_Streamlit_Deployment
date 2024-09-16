@@ -10,7 +10,7 @@ import random
 
 # === Hardcoded variables ===
 # Path to the saved model
-MODEL_PATH = r'trained_model.pkl'
+MODEL_PATH = 'trained_model.pkl'
 
 # Path to the default image displayed at the top
 DEFAULT_IMAGE_PATH = r'data/Streamlit_open_image.jpg'
