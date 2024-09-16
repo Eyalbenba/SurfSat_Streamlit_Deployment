@@ -14,7 +14,7 @@ def load_model_from_pickle(pkl_path):
     return model
 
 # Path to the saved pickle file
-model_path = '/Users/eyalbenbarouch/Documents/My Stuff/Studies/Studies/סמסטר ו/Project/streamlit_deployment/trained_model.pkl'
+model_path = 'trained_model.pkl'
 
 # Load the model
 model = load_model_from_pickle(model_path)
